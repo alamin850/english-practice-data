@@ -18,7 +18,7 @@
     ],
     "explanations": [
       "নির্দিষ্ট তারিখ প্রকাশের আগে 'The' বসে।",
-      "'Red-letter day' একটি ফ্রেজ, নির্দিষ্ট একটি দিন বোঝাতে 'a' বসে।",
+      "'Red-letter day' একটি সাধারণ (unspecified) গুণবাচক ফ্রেজ, তাই অনির্দিষ্ট অর্থে 'a' বসে।",
       "নির্দিষ্ট কোনো কিছুর বিনিময় বা মূল্যের ক্ষেত্রে 'the' বসে।",
       "Consonant sound-এর আগে 'a' বসে।",
       "Vowel sound 'i'-এর আগে 'an' বসে।"
@@ -95,7 +95,7 @@
       "অনির্দিষ্ট মিটিং বোঝাতে 'a' বসে।",
       "নির্দিষ্ট শ্রমিকদের বোঝাতে 'the' বসে।",
       "নির্দিষ্ট কারখানা বোঝাতে 'the' বসে।",
-      "নির্দিষ্ট চেয়ারম্যন পদে 'the' বসে।",
+      "নির্দিষ্ট চেয়ারম্যান পদে 'the' বসে।",
       "অনির্দিষ্ট রিপোর্ট অর্থে 'a' বসে।"
     ]
   },
@@ -124,8 +124,35 @@
       "নির্দিষ্ট প্রয়োজনীয়তা অর্থে 'the' বসে।"
     ]
   },
+
+{
+  "title": "Articles Practice 6: Ferdousi",
+  "parts": [
+    "Ferdousi was one of ",
+    " greatest poets of Persia. He wrote ",
+    " Shahanama in honour of Sultan Mahmud. It is ",
+    " epic. ",
+    " Sultan promised him to give him ",
+    " piece of gold for each verse."
+  ],
+  "answers": [
+    "the",
+    "the",
+    "an",
+    "The",
+    "a"
+  ],
+  "explanations": [
+    "Superlative degree (greatest)-এর আগে 'the' বসে।",
+    "বিখ্যাত মহাকাব্যের (Shahanama) নামের আগে 'the' বসে।",
+    "Vowel sound 'e'-এর আগে 'an' বসে।",
+    "পূর্বে উল্লেখিত নির্দিষ্ট সুলতানকে নির্দেশ করতে 'The' বসে।",
+    "একখণ্ড বা একটি টুকরো বোঝাতে 'a' বসে।"
+  ]
+}
+  
   {
-    "title": "Articles Practice 6: William Wordsworth",
+    "title": "Articles Practice 7: William Wordsworth",
     "parts": [
       "William Wordsworth, ",
       " second son of ",
@@ -146,11 +173,11 @@
       "Vowel sound 'a'-এর আগে 'an' বসে।",
       "'u'-এর উচ্চারণ 'ইউ' (ユー)-এর মতো হলে 'a' বসে।",
       "ঐতিহাসিক বিপ্লব বা ঘটনার আগে 'the' বসে।",
-      "জাতি বোঝাতে ভাষার নামের আগে 'The' বসে।"
+      "জাতীয়তাবাচক বিশেষণ (National Adjective) দিয়ে সমগ্র জাতি বা সম্প্রদায় বোঝালে তার আগে 'The' বসে (যেমন: The English, The Bengalis)।"
     ]
   },
   {
-    "title": "Articles Practice 7: Bina's Doctor Visit",
+    "title": "Articles Practice 8: Bina's Doctor Visit",
     "parts": [
       "Bina is ",
       " SSC examinee. She has been suffering from fever. She has made ",
