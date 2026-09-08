@@ -1,56 +1,177 @@
 [
   {
-    "title": "Articles Practice 1",
+    "title": "Articles Practice 1: 16th December",
     "parts": [
-      "Bangladesh is ",
-      " agricultural country. Most of ",
-      " people live in villages."
+      "",
+      " 16th December is ",
+      " red-letter day in the history of Bangladesh. On this day we achieved victory at ",
+      " cost of ",
+      " bloody battle. Bangladesh came into being as ",
+      " independent country."
     ],
     "answers": [
+      "The",
+      "a",
+      "the",
+      "a",
+      "an"
+    ],
+    "explanations": [
+      "নির্দিষ্ট তারিখ প্রকাশের আগে 'The' বসে।",
+      "'Red-letter day' একটি ফ্রেজ, নির্দিষ্ট একটি দিন বোঝাতে 'a' বসে।",
+      "নির্দিষ্ট কোনো কিছুর বিনিময় বা মূল্যের ক্ষেত্রে 'the' বসে।",
+      "Consonant sound-এর আগে 'a' বসে।",
+      "Vowel sound 'i'-এর আগে 'an' বসে।"
+    ]
+  },
+  {
+    "title": "Articles Practice 2: Mount Everest",
+    "parts": [
+      "Mount Everest has always fascinated climbers. It is in ",
+      " Himalayan Mountains. It is ",
+      " highest mountain in ",
+      " world. It was named after ",
+      " Englishman George Everest. He was ",
+      " first man to survey the Himalayas in 1841."
+    ],
+    "answers": [
+      "the",
+      "the",
+      "the",
       "an",
       "the"
     ],
     "explanations": [
-      "Vowel sound 'a'-এর আগে 'an' বসে।",
-      "নির্দিষ্ট কোনো জনসংখ্যা বোঝালে 'the' বসে।"
+      "পর্বতশ্রেণীর নামের আগে 'the' বসে।",
+      "Superlative degree (highest)-এর আগে 'the' বসে।",
+      "পৃথিবীর ক্ষেত্রে 'the' বসে।",
+      "Vowel sound 'E'-এর আগে 'an' বসে।",
+      "Ordinal number (first)-এর আগে 'the' বসে।"
     ]
   },
   {
-    "title": "Articles Practice 2",
+    "title": "Articles Practice 3: Prince Hamlet",
     "parts": [
-      "Honesty is ",
-      " great virtue. An honest man is respected by ",
-      " all. He never tells ",
-      " lie."
-    ],
-    "answers": [
-      "a",
-      "x",
-      "a"
-    ],
-    "explanations": [
-      "Consonant sound 'g'-এর আগে 'a' বসে।",
-      "'All' বা সাধারণ বহুবচনের আগে কোনো article বসে না (x)।",
-      "'Tell a lie' একটি প্রবাদপ্রতীম বাক্য (idiom), তাই 'a' বসে।"
-    ]
-  },
-  {
-    "title": "Articles Practice 3",
-    "parts": [
-      "The sun rises in ",
-      " east. It gives us ",
-      " light. We should take care of ",
-      " environment."
+      "Hamlet was once ",
+      " happiest young man in the country. But ",
+      " great trouble came into his life. His father died suddenly in ",
+      " mysterious way. Hamlet was told that ",
+      " old king had died from the bite of ",
+      " snake when he was asleep."
     ],
     "answers": [
       "the",
-      "x",
+      "a",
+      "a",
+      "the",
+      "a"
+    ],
+    "explanations": [
+      "Superlative degree (happiest)-এর আগে 'the' বসে।",
+      "Consonant sound-এর আগে 'a' বসে।",
+      "অনির্দিষ্ট একটি উপায়ের ক্ষেত্রে 'a' বসে।",
+      "নির্দিষ্ট বয়স্ক রাজাকে বোঝাতে 'the' বসে।",
+      "অনির্দিষ্ট সাপের কামড় বোঝাতে 'a' বসে।"
+    ]
+  },
+  {
+    "title": "Articles Practice 4: Meeting and Factory",
+    "parts": [
+      "At ",
+      " meeting held yesterday ",
+      " workers of ",
+      " factory raised many problems and discussed them. They requested ",
+      " chairman to prepare ",
+      " report."
+    ],
+    "answers": [
+      "a",
+      "the",
+      "the",
+      "the",
+      "a"
+    ],
+    "explanations": [
+      "অনির্দিষ্ট মিটিং বোঝাতে 'a' বসে।",
+      "নির্দিষ্ট শ্রমিকদের বোঝাতে 'the' বসে।",
+      "নির্দিষ্ট কারখানা বোঝাতে 'the' বসে।",
+      "নির্দিষ্ট চেয়ারম্যন পদে 'the' বসে।",
+      "অনির্দিষ্ট রিপোর্ট অর্থে 'a' বসে।"
+    ]
+  },
+  {
+    "title": "Articles Practice 5: A Good Teacher",
+    "parts": [
+      "",
+      " good teacher is always respected by all. He bears ",
+      " excellent moral character. He is ",
+      " role model to his students. A good teacher follows ",
+      " rules of discipline. Every society feels ",
+      " necessity of a good teacher."
+    ],
+    "answers": [
+      "A",
+      "an",
+      "a",
+      "the",
       "the"
     ],
     "explanations": [
-      "দিক বা ভৌগোলিক অবস্থানের নামের আগে 'the' বসে।",
-      "Uncountable noun (light)-এর আগে সাধারণত article বসে না (x)।",
-      "নির্দিষ্ট পরিবেশ বোঝালে 'the' বসে।"
+      "সাধারণশ্রেণী বোঝাতে শুরুতে 'A' বসে।",
+      "Vowel sound 'e'-এর আগে 'an' বসে।",
+      "Consonant sound-এর আগে 'a' বসে।",
+      "নির্দিষ্ট নিয়মকানুন বোঝাতে 'the' বসে।",
+      "নির্দিষ্ট প্রয়োজনীয়তা অর্থে 'the' বসে।"
+    ]
+  },
+  {
+    "title": "Articles Practice 6: William Wordsworth",
+    "parts": [
+      "William Wordsworth, ",
+      " second son of ",
+      " attorney-at-law read in ",
+      " university named Cambridge. He wrote a remarkable poem on ",
+      " French Revolution. ",
+      " English are proud of him."
+    ],
+    "answers": [
+      "the",
+      "an",
+      "a",
+      "the",
+      "The"
+    ],
+    "explanations": [
+      "Ordinal number (second)-এর আগে 'the' বসে।",
+      "Vowel sound 'a'-এর আগে 'an' বসে।",
+      "'u'-এর উচ্চারণ 'ইউ' (ユー)-এর মতো হলে 'a' বসে।",
+      "ঐতিহাসিক বিপ্লব বা ঘটনার আগে 'the' বসে।",
+      "জাতি বোঝাতে ভাষার নামের আগে 'The' বসে।"
+    ]
+  },
+  {
+    "title": "Articles Practice 7: Bina's Doctor Visit",
+    "parts": [
+      "Bina is ",
+      " SSC examinee. She has been suffering from fever. She has made ",
+      " appointment with Dr. Khan who had his degree from ",
+      " USA. On ",
+      " appointed day, she wants to meet the doctor. The doctor had ",
+      " one-eyed son."
+    ],
+    "answers": [
+      "an",
+      "an",
+      "the",
+      "the",
+      "a"
+    ],
+    "explanations": [
+      "Abbreviation (S.S.C)-এর প্রথম অক্ষরের উচ্চারণ Vowel sound দিয়ে হলে 'an' বসে।",
+      "Vowel sound 'a'-এর আগে 'an' বসে।",
+      "সংক্ষিপ্ত দেশের নাম (USA)-এর আগে 'the' বসে।",
+      "নির্দিষ্ট নির্ধারিত দিন বোঝাতে 'the' বসে।",
+      "'o'-এর উচ্চারণ 'ওয়া' (Wa)-এর মতো হলে 'a' বসে।"
     ]
   }
 ]
