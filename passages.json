@@ -9,17 +9,11 @@
       " bloody battle. Bangladesh came into being as ",
       " independent country."
     ],
-    "answers": [
-      "The",
-      "a",
-      "the",
-      "a",
-      "an"
-    ],
+    "answers": ["The", "a", "the", "a", "an"],
     "explanations": [
       "নির্দিষ্ট তারিখ প্রকাশের আগে 'The' বসে।",
       "'Red-letter day' একটি সাধারণ (unspecified) গুণবাচক ফ্রেজ, তাই অনির্দিষ্ট অর্থে 'a' বসে।",
-      "নির্দিষ্ট কোনো কিছুর বিনিময় বা মূল্যের ক্ষেত্রে 'the' বসে।",
+      "নির্দিষ্ট কোনো কিছুর বিনিময় বা মূল্যের ক্ষেত্রে 'the' বসে।",
       "Consonant sound-এর আগে 'a' বসে।",
       "Vowel sound 'i'-এর আগে 'an' বসে।"
     ]
@@ -34,13 +28,7 @@
       " Englishman George Everest. He was ",
       " first man to survey the Himalayas in 1841."
     ],
-    "answers": [
-      "the",
-      "the",
-      "the",
-      "an",
-      "the"
-    ],
+    "answers": ["the", "the", "the", "an", "the"],
     "explanations": [
       "পর্বতশ্রেণীর নামের আগে 'the' বসে।",
       "Superlative degree (highest)-এর আগে 'the' বসে।",
@@ -59,19 +47,13 @@
       " old king had died from the bite of ",
       " snake when he was asleep."
     ],
-    "answers": [
-      "the",
-      "a",
-      "a",
-      "the",
-      "a"
-    ],
+    "answers": ["the", "a", "a", "the", "a"],
     "explanations": [
       "Superlative degree (happiest)-এর আগে 'the' বসে।",
       "Consonant sound-এর আগে 'a' বসে।",
-      "অনির্দিষ্ট একটি উপায়ের ক্ষেত্রে 'a' বসে।",
-      "নির্দিষ্ট বয়স্ক রাজাকে বোঝাতে 'the' বসে।",
-      "অনির্দিষ্ট সাপের কামড় বোঝাতে 'a' বসে।"
+      "অনির্দিষ্ট একটি উপায়ের ক্ষেত্রে 'a' বসে।",
+      "নির্দিষ্ট বয়স্ক রাজাকে বোঝাতে 'the' বসে।",
+      "অনির্দিষ্ট সাপের কামড় বোঝাতে 'a' বসে।"
     ]
   },
   {
@@ -84,13 +66,7 @@
       " chairman to prepare ",
       " report."
     ],
-    "answers": [
-      "a",
-      "the",
-      "the",
-      "the",
-      "a"
-    ],
+    "answers": ["a", "the", "the", "the", "a"],
     "explanations": [
       "অনির্দিষ্ট মিটিং বোঝাতে 'a' বসে।",
       "নির্দিষ্ট শ্রমিকদের বোঝাতে 'the' বসে।",
@@ -109,48 +85,34 @@
       " rules of discipline. Every society feels ",
       " necessity of a good teacher."
     ],
-    "answers": [
-      "A",
-      "an",
-      "a",
-      "the",
-      "the"
-    ],
+    "answers": ["A", "an", "a", "the", "the"],
     "explanations": [
       "সাধারণশ্রেণী বোঝাতে শুরুতে 'A' বসে।",
       "Vowel sound 'e'-এর আগে 'an' বসে।",
       "Consonant sound-এর আগে 'a' বসে।",
-      "নির্দিষ্ট নিয়মকানুন বোঝাতে 'the' বসে।",
-      "নির্দিষ্ট প্রয়োজনীয়তা অর্থে 'the' বসে।"
+      "নির্দিষ্ট নিয়মকানুন বোঝাতে 'the' বসে।",
+      "নির্দিষ্ট প্রয়োজনীয়তা অর্থে 'the' বসে।"
     ]
   },
-
-{
-  "title": "Articles Practice 6: Ferdousi",
-  "parts": [
-    "Ferdousi was one of ",
-    " greatest poets of Persia. He wrote ",
-    " Shahanama in honour of Sultan Mahmud. It is ",
-    " epic. ",
-    " Sultan promised him to give him ",
-    " piece of gold for each verse."
-  ],
-  "answers": [
-    "the",
-    "the",
-    "an",
-    "The",
-    "a"
-  ],
-  "explanations": [
-    "Superlative degree (greatest)-এর আগে 'the' বসে।",
-    "বিখ্যাত মহাকাব্যের (Shahanama) নামের আগে 'the' বসে।",
-    "Vowel sound 'e'-এর আগে 'an' বসে।",
-    "পূর্বে উল্লেখিত নির্দিষ্ট সুলতানকে নির্দেশ করতে 'The' বসে।",
-    "একখণ্ড বা একটি টুকরো বোঝাতে 'a' বসে।"
-  ]
-}
-  
+  {
+    "title": "Articles Practice 6: Ferdousi",
+    "parts": [
+      "Ferdousi was one of ",
+      " greatest poets of Persia. He wrote ",
+      " Shahanama in honour of Sultan Mahmud. It is ",
+      " epic. ",
+      " Sultan promised him to give him ",
+      " piece of gold for each verse."
+    ],
+    "answers": ["the", "the", "an", "The", "a"],
+    "explanations": [
+      "Superlative degree (greatest)-এর আগে 'the' বসে।",
+      "বিখ্যাত মহাকাব্যের (Shahanama) নামের আগে 'the' বসে।",
+      "Vowel sound 'e'-এর আগে 'an' বসে।",
+      "পূর্বে উল্লেখিত নির্দিষ্ট সুলতানকে নির্দেশ করতে 'The' বসে।",
+      "একখণ্ড বা একটি টুকরো বোঝাতে 'a' বসে।"
+    ]
+  },
   {
     "title": "Articles Practice 7: William Wordsworth",
     "parts": [
@@ -161,13 +123,7 @@
       " French Revolution. ",
       " English are proud of him."
     ],
-    "answers": [
-      "the",
-      "an",
-      "a",
-      "the",
-      "The"
-    ],
+    "answers": ["the", "an", "a", "the", "The"],
     "explanations": [
       "Ordinal number (second)-এর আগে 'the' বসে।",
       "Vowel sound 'a'-এর আগে 'an' বসে।",
@@ -186,19 +142,13 @@
       " appointed day, she wants to meet the doctor. The doctor had ",
       " one-eyed son."
     ],
-    "answers": [
-      "an",
-      "an",
-      "the",
-      "the",
-      "a"
-    ],
+    "answers": ["an", "an", "the", "the", "a"],
     "explanations": [
-      "Abbreviation (S.S.C)-এর প্রথম অক্ষরের উচ্চারণ Vowel sound দিয়ে হলে 'an' বসে।",
+      "Abbreviation (S.S.C)-এর প্রথম অক্ষরের উচ্চারণ Vowel sound দিয়ে হলে 'an' বসে।",
       "Vowel sound 'a'-এর আগে 'an' বসে।",
       "সংক্ষিপ্ত দেশের নাম (USA)-এর আগে 'the' বসে।",
       "নির্দিষ্ট নির্ধারিত দিন বোঝাতে 'the' বসে।",
-      "'o'-এর উচ্চারণ 'ওয়া' (Wa)-এর মতো হলে 'a' বসে।"
+      "'o'-এর উচ্চারণ 'ওয়া' (Wa)-এর মতো হলে 'a' বসে।"
     ]
   }
 ]
