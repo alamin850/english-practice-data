@@ -1,16 +1,56 @@
-{
-  "title": "Articles Practice",
-  "parts": [
-    "Bangladesh is ",
-    " agricultural country. Most of ",
-    " people live in villages."
-  ],
-  "answers": [
-    "an",
-    "the"
-  ],
-  "explanations": [
-    "Vowel sound 'a'-এর আগে 'an' বসে।",
-    "নির্দিষ্ট কোনো জনসংখ্যা বোঝালে 'the' বসে।"
-  ]
-}
+[
+  {
+    "title": "Articles Practice 1",
+    "parts": [
+      "Bangladesh is ",
+      " agricultural country. Most of ",
+      " people live in villages."
+    ],
+    "answers": [
+      "an",
+      "the"
+    ],
+    "explanations": [
+      "Vowel sound 'a'-এর আগে 'an' বসে।",
+      "নির্দিষ্ট কোনো জনসংখ্যা বোঝালে 'the' বসে।"
+    ]
+  },
+  {
+    "title": "Articles Practice 2",
+    "parts": [
+      "Honesty is ",
+      " great virtue. An honest man is respected by ",
+      " all. He never tells ",
+      " lie."
+    ],
+    "answers": [
+      "a",
+      "x",
+      "a"
+    ],
+    "explanations": [
+      "Consonant sound 'g'-এর আগে 'a' বসে।",
+      "'All' বা সাধারণ বহুবচনের আগে কোনো article বসে না (x)।",
+      "'Tell a lie' একটি প্রবাদপ্রতীম বাক্য (idiom), তাই 'a' বসে।"
+    ]
+  },
+  {
+    "title": "Articles Practice 3",
+    "parts": [
+      "The sun rises in ",
+      " east. It gives us ",
+      " light. We should take care of ",
+      " environment."
+    ],
+    "answers": [
+      "the",
+      "x",
+      "the"
+    ],
+    "explanations": [
+      "দিক বা ভৌগোলিক অবস্থানের নামের আগে 'the' বসে।",
+      "Uncountable noun (light)-এর আগে সাধারণত article বসে না (x)।",
+      "নির্দিষ্ট পরিবেশ বোঝালে 'the' বসে।"
+    ]
+  }
+]
