@@ -1,80 +1,33 @@
-
 [
   {
-    "title": "Right Form of Verbs Practice",
+    "title": "Right Form of Verbs Practice 1",
     "parts": [
-      "Why ",
-      " he go to market yesterday?"
+      "(a) Why ",
+      " (go) to market yesterday?\n(b) Would that I ",
+      " (read) Latin.\n(c) ",
+      " (show) her in.\n(d) Had I been there, it not ",
+      " (happen).\n(e) The boy not yet ",
+      " (learn) his lesson.\n(f) Chinmoy ",
+      " (read) in this college for the last two years.\n(g) Unless you write the answers well, you ",
+      " (fail)."
     ],
-    "answers": ["did"],
-    "explanations": [
-      "অতীতকালের প্রশ্নবোধক বাক্যে (yesterday থাকলে) Subject-এর আগে 'did' বসে এবং মূল Verb-এর Base form (go) হয়।"
-    ]
-  },
-  {
-    "title": "Right Form of Verbs Practice",
-    "parts": [
-      "Would that I ",
-      " Latin."
+    "answers": [
+      "did he go",
+      "could read",
+      "Show",
+      "would have happened",
+      "has not learned",
+      "has been reading",
+      "will fail"
     ],
-    "answers": ["could read"],
     "explanations": [
-      "বাক্যের শুরুতে 'Would that' থাকলে অবাস্তব ইচ্ছা প্রকাশ পায়, তাই Subject-এর পর 'could + V1' বসে।"
-    ]
-  },
-  {
-    "title": "Right Form of Verbs Practice",
-    "parts": [
-      "",
-      " her in."
-    ],
-    "answers": ["Show"],
-    "explanations": [
-      "Imperative sentence (আদেশ/অনুরোধ) সবসময় Verb-এর Present form দিয়ে শুরু হয়।"
-    ]
-  },
-  {
-    "title": "Right Form of Verbs Practice",
-    "parts": [
-      "Had I been there, it ",
-      "."
-    ],
-    "answers": ["would not have happened"],
-    "explanations": [
-      "3rd Conditional Structure (Had + Subject + V3) থাকলে পরের অংশ 'would have / would not have + V3' হয়।"
-    ]
-  },
-  {
-    "title": "Right Form of Verbs Practice",
-    "parts": [
-      "The boy ",
-      " his lesson."
-    ],
-    "answers": ["has not yet learned"],
-    "explanations": [
-      "বাক্যে 'yet' থাকলে Present Perfect Tense হয় (has/have + not + V3)।"
-    ]
-  },
-  {
-    "title": "Right Form of Verbs Practice",
-    "parts": [
-      "Chinmoy ",
-      " in this college for the last two years."
-    ],
-    "answers": ["has been reading"],
-    "explanations": [
-      "নির্দিষ্ট সময় ধরে কোনো কাজ চলছে বোঝালে (for/since থাকলে) Present Perfect Continuous Tense (has been/have been + V-ing) হয়।"
-    ]
-  },
-  {
-    "title": "Right Form of Verbs Practice",
-    "parts": [
-      "Unless you write the answers well, you ",
-      "."
-    ],
-    "answers": ["will fail"],
-    "explanations": [
-      "1st Conditional: 'Unless' যুক্ত clause-টি Present Indefinite Tense হলে অপর clause-টি Future Indefinite (will + V1) হয়।"
+      "অতীতকালের প্রশ্নবোধক বাক্যে (yesterday থাকলে) Wh-word এর পর 'did' বসে এবং Subject-এর পর Verb-এর Base form (go) হয়।",
+      "বাক্যের শুরুতে 'Would that' থাকলে অবাস্তব ইচ্ছা প্রকাশ পায়, তাই Subject-এর পর 'could + V1' (could read) বসে।",
+      "Imperative sentence (আদেশ/অনুরোধ) সবসময় Verb-এর Present form (Show) দিয়ে শুরু হয়।",
+      "3rd Conditional Structure (Had + Subject + V3) থাকলে পরের অংশ 'would have + V3' (would have happened) হয়।",
+      "বাক্যে 'yet' থাকলে Present Perfect Tense হয় (has/have + not + V3)।",
+      "নির্দিষ্ট সময় ধরে কোনো কাজ চলছে বোঝালে (for/since থাকলে) Present Perfect Continuous Tense (has been/have been + V-ing) হয়।",
+      "1st Conditional: 'Unless' যুক্ত clause-টি Present Indefinite Tense হলে অপর clause-টি Future Indefinite (will + V1) হয়।"
     ]
   }
 ]
