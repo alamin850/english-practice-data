@@ -2,8 +2,7 @@
   {
     "title": "Articles Practice 1: 16th December",
     "parts": [
-      "",
-      " 16th December is ",
+      "16th December is ",
       " red-letter day in the history of Bangladesh. On this day we achieved victory at ",
       " cost of ",
       " bloody battle. Bangladesh came into being as ",
@@ -78,7 +77,6 @@
   {
     "title": "Articles Practice 5: A Good Teacher",
     "parts": [
-      "",
       " good teacher is always respected by all. He bears ",
       " excellent moral character. He is ",
       " role model to his students. A good teacher follows ",
@@ -127,9 +125,9 @@
     "explanations": [
       "Ordinal number (second)-এর আগে 'the' বসে।",
       "Vowel sound 'a'-এর আগে 'an' বসে।",
-      "'u'-এর উচ্চারণ 'ইউ' (ユー)-এর মতো হলে 'a' বসে।",
+      "'u'-এর উচ্চারণ 'ইউ'-এর মতো হলে 'a' বসে।",
       "ঐতিহাসিক বিপ্লব বা ঘটনার আগে 'the' বসে।",
-      "জাতীয়তাবাচক বিশেষণ (National Adjective) দিয়ে সমগ্র জাতি বা সম্প্রদায় বোঝালে তার আগে 'The' বসে (যেমন: The English, The Bengalis)।"
+      "জাতীয়তাবাচক বিশেষণ (National Adjective) দিয়ে সমগ্র জাতি বা সম্প্রদায় বোঝালে তার আগে 'The' বসে।"
     ]
   },
   {
@@ -148,7 +146,197 @@
       "Vowel sound 'a'-এর আগে 'an' বসে।",
       "সংক্ষিপ্ত দেশের নাম (USA)-এর আগে 'the' বসে।",
       "নির্দিষ্ট নির্ধারিত দিন বোঝাতে 'the' বসে।",
-      "'o'-এর উচ্চারণ 'ওয়া' (Wa)-এর মতো হলে 'a' বসে।"
+      "'o'-এর উচ্চারণ 'ওয়া'-এর মতো হলে 'a' বসে।"
+    ]
+  },
+  {
+    "title": "Article 2016",
+    "parts": [
+      "A university plays ",
+      " unique role in shaping ",
+      " man's life. It gives ",
+      " man not only a good career but also ",
+      " enlightened mind. In fact, ",
+      " educated should have a noble mind."
+    ],
+    "answers": ["a", "a", "a", "an", "the"],
+    "explanations": [
+      "Vowel 'u'-এর উচ্চারণ 'ইউ'-এর মতো হলে তার পূর্বে 'a' বসে।",
+      "একক কোনো মানবজীবনকে সাধারণ অর্থে বোঝাতে 'a' ব্যবহৃত হয়।",
+      "একইভাবে কোনো একজন মানুষকে সাধারণ অর্থে নির্দেশ করতে 'a' বসে।",
+      "Vowel (e)-এর পূর্বে সাধারণত 'an' বসে।",
+      "Adjective-এর পূর্বে 'the' বসিয়ে Plural Common Noun গঠন করা হয়েছে (the educated = শিক্ষিত সমাজ)।"
+    ]
+  },
+  {
+    "title": "Article 2016 Special",
+    "parts": [
+      "After summer comes ",
+      " rainy season. People have ",
+      " sight of relief. ",
+      " sky remains overcast with clouds and ",
+      " sun cannot be seen for hours. Rivers are full to ",
+      " brim."
+    ],
+    "answers": ["the", "a", "The", "the", "the"],
+    "explanations": [
+      "ঋতুর নামের পূর্বে নির্দিষ্ট করে বোঝাতে 'the' ব্যবহৃত হয়।",
+      "'a sight of relief' একটি প্রচলিত Phrase, তাই 'a' বসবে।",
+      "আকাশ (sky) একটি নির্দিষ্ট প্রাকৃতিক সত্তা হওয়ায় 'the' বসে।",
+      "সূর্য (sun) বিশ্বে একটিই রয়েছে, তাই এর পূর্বে 'the' বসে।",
+      "'to the brim' (কিনারা পর্যন্ত) একটি নির্দিষ্ট Phrase।"
+    ]
+  },
+  {
+    "title": "Article 2017",
+    "parts": [
+      "Tea is ",
+      " good drink. A cup of tea removes tiredness. It is ",
+      " preventive to malaria. But tea is not free from abuse. ",
+      " person taking tea does not feel good without it. Bear in mind, tea contains ",
+      " element of caffeine. It may affect ",
+      " man in various ways."
+    ],
+    "answers": ["a", "a", "A", "an", "a"],
+    "explanations": [
+      "Consonant (g)-এর পূর্বে সাধারণ অর্থে 'a' বসে।",
+      "Consonant (p)-এর পূর্বে 'a' বসানো হয়েছে।",
+      "চা পানকারী যেকোনো সাধারণ ব্যক্তিকে নির্দেশ করতে 'A' বসে।",
+      "Vowel (e)-এর পূর্বে 'an' বসবে।",
+      "যেকোনো সাধারণ মানুষকে বোঝাতে 'a' ব্যবহৃত হয়।"
+    ]
+  },
+  {
+    "title": "Article 2018",
+    "parts": [
+      "One day I was going to ",
+      " Dhaka University. On ",
+      " way, I met a boy. ",
+      " boy was very poor. He showed me ",
+      " application. I went through the application. I gave him ",
+      " one hundred taka note."
+    ],
+    "answers": ["x", "the", "The", "an", "a"],
+    "explanations": [
+      "Proper Noun বা বিশ্ববিদ্যালয়ের নির্দিষ্ট নামের পূর্বে কোনো Article বসে না।",
+      "'On the way' (পথে) একটি নির্দিষ্ট Phrase।",
+      "পূর্বে উল্লিখিত ছেলেটিকে পুনরায় নির্দেশ করার কারণে নির্দিষ্ট করে 'The' বসেছে।",
+      "Vowel (a)-এর পূর্বে 'an' বসবে।",
+      "'One'-এর উচ্চারণ 'ওয়া'-এর মতো হওয়ায় এর পূর্বে 'an' না বসে 'a' বসে।"
+    ]
+  },
+  {
+    "title": "Article 2019",
+    "parts": [
+      "",
+      " Sangsad Bhaban of Bangladesh is situated at Sher-e-Bangla Nagar. It is ",
+      " wonder of modern architecture and technology. It is one of ",
+      " largest buildings in ",
+      " world. It was designed by a famous architect named Louis I Kahn. He was ",
+      " American."
+    ],
+    "answers": ["The", "a", "the", "the", "an"],
+    "explanations": [
+      "জাতীয় সংসদ ভবনের মতো বিখ্যাত বা অনন্য স্থাপত্যের পূর্বে 'The' বসে।",
+      "Consonant (w)-এর আগে সাধারণ অর্থে 'a' বসবে।",
+      "Superlative degree (largest)-এর পূর্বে সবসময় 'the' বসে।",
+      "পৃথিবী (world) একটিই থাকায় এর পূর্বে 'the' বসে।",
+      "জাতীয়তা বা নাগরিকত্ব প্রকাশের পূর্বে 'an' বসে।"
+    ]
+  },
+  {
+    "title": "Article 2020",
+    "parts": [
+      "Mothers play ",
+      " important role in building ",
+      " character of their children. There is ",
+      " saying in English that ",
+      " hands that rock ",
+      " cradle rules the world."
+    ],
+    "answers": ["an", "the", "a", "the", "the"],
+    "explanations": [
+      "Vowel (i)-এর পূর্বে 'an' বসে।",
+      "সন্তানদের চরিত্রকে নির্দিষ্ট করে বোঝাতে 'the' ব্যবহৃত হয়।",
+      "সাধারণ একটি প্রবাদ বা বাক্য বোঝাতে 'a' বসে।",
+      "প্রবাদের নির্দিষ্ট হাতসমূহকে বোঝাতে 'the' বসে।",
+      "নির্দিষ্ট দোলনা বা শিশুর আশ্রয়কে বোঝাতে 'the' ব্যবহৃত হয়।"
+    ]
+  },
+  {
+    "title": "Article 2021",
+    "parts": [
+      "",
+      " educated person is different from ",
+      " uneducated person. ",
+      " educated are assets for a country. On ",
+      " other hand, ",
+      " uneducated are liabilities."
+    ],
+    "answers": ["An", "an", "The", "the", "the"],
+    "explanations": [
+      "Vowel (e)-এর পূর্বে 'An' বসে।",
+      "Vowel (u)-এর উচ্চারণ 'আ'-এর মতো হওয়ায় 'an' বসে।",
+      "Adjective-এর পূর্বে 'The' বসিয়ে সমগ্র শিক্ষিত শ্রেণিকে বোঝানো হয়েছে।",
+      "'On the other hand' একটি নির্দিষ্ট Idiom/Phrase।",
+      "সমগ্র অশিক্ষিত শ্রেণিকে নির্দেশ করতে 'the' ব্যবহৃত হয়।"
+    ]
+  },
+  {
+    "title": "Article 2022",
+    "parts": [
+      "Tea is ",
+      " good drink. A cup of tea removes tiredness. It is ",
+      " preventive to malaria. But tea is not free from abuse. ",
+      " person taking tea does not feel good without it. Bear in mind, tea contains ",
+      " element of caffeine. It may affect ",
+      " man in various ways."
+    ],
+    "answers": ["a", "a", "A", "an", "a"],
+    "explanations": [
+      "Consonant (g)-এর পূর্বে সাধারণ অর্থে 'a' বসে।",
+      "Consonant (p)-এর পূর্বে 'a' বসানো হয়েছে।",
+      "চা পানকারী যেকোনো সাধারণ ব্যক্তিকে নির্দেশ করতে 'A' বসে।",
+      "Vowel (e)-এর পূর্বে 'an' বসবে।",
+      "সাধারণভাবে যেকোনো মানুষকে বোঝাতে 'a' ব্যবহৃত হয়।"
+    ]
+  },
+  {
+    "title": "Article 2023",
+    "parts": [
+      "Hamlet was once ",
+      " happiest young man in Denmark. But ",
+      " great trouble came into his life. His father died suddenly in ",
+      " mysterious way. Hamlet was informed that ",
+      " old king died from the bite of ",
+      " snake while he was asleep in the orchard."
+    ],
+    "answers": ["the", "a", "a", "the", "a"],
+    "explanations": [
+      "Superlative degree (happiest)-এর পূর্বে সবসময় 'the' বসে।",
+      "সাধারণ একটি বড় সমস্যা বা বিপদের কথা বোঝাতে 'a' বসে।",
+      "রহস্যময় একটি উপায়ের কথা বোঝাতে 'a' ব্যবহৃত হয়।",
+      "হ্যামলেটের মৃত রাজাকে নির্দিষ্ট করে বোঝাতে 'the' বসে।",
+      "সাধারণ একটি সাপের কামড় বোঝাতে 'a' বসে।"
+    ]
+  },
+  {
+    "title": "Article 2024",
+    "parts": [
+      "Dhaka is ",
+      " big city. It is ",
+      " capital of Bangladesh. Once it was famous for Muslin in ",
+      " whole world. Now there are lots of attractive places for ",
+      " tourists. It is also ",
+      " city of mosques."
+    ],
+    "answers": ["a", "the", "the", "x", "a"],
+    "explanations": [
+      "একটি বড় শহর বোঝাতে Consonant (b)-এর পূর্বে 'a' বসে।",
+      "বাংলাদেশের নির্দিষ্ট রাজধানী হওয়ায় 'the' বসে।",
+      "সমগ্র বিশ্বকে বোঝাতে 'the whole world' ব্যবহৃত হয়।",
+      "Plural Noun (tourists) সাধারণ অর্থে ব্যবহৃত হওয়ায় কোনো Article (x) বসবে না।",
+      "মসজিদের শহর হিসেবে একটি পরিচিতি বোঝাতে 'a' বসে।"
     ]
   }
 ]
